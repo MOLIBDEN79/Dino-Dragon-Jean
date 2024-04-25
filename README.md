@@ -25,6 +25,7 @@
 Загрузка дата сета
 
 ![image](https://github.com/MOLIBDEN79/Dino-Dragon-Jean/assets/47570307/b4bfc3d9-c45d-4e8a-94a4-94ce04a0fdbe)
+
 импорт библиотек
 
 ![image](https://github.com/MOLIBDEN79/Dino-Dragon-Jean/assets/47570307/530f7f4f-0839-4a1e-a7d9-7f72ef3df13d)
